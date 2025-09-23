@@ -1,6 +1,9 @@
 ## Hola soy **GalletaDev** o como **CookieDev**
 Soy un desarrollador que se dedica a programar videojuego y sistema de automatizacion mediante Python, 
 tambien un poco de como funciona las IA en hoy en dia y modelos de ChatBot como GPT-J, GPT-2, Transformers ect...
+Se tambien dibujar con Krita herramienta de dibujo y diseño con tableta grafica.
+
+# Pero mi enfoque principal ante todo es la *programacion*.
 
 ### Habilidades
 
