@@ -5,7 +5,9 @@ Se tambien dibujar con Krita herramienta de dibujo y diseño con tableta grafica
 
 # Pero mi enfoque principal ante todo es la *programacion*.
 
-### Habilidades
+## 
+
+### Habilidades familiares
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -15,6 +17,7 @@ Se tambien dibujar con Krita herramienta de dibujo y diseño con tableta grafica
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF69B4?style=for-the-badge&logo=renpy&logoColor=white)
 ![Arte y Diseño](https://img.shields.io/badge/Arte%20y%20Diseño-FF6F61?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
+![Music](https://img.shields.io/badge/Music-🎧%20Now%20Playing-blueviolet?style=for-the-badge&logo=spotify&logoColor=white)
 
 ### 🚀 Actualmente aprendiendo
 
