@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=Bienvenido%20a%20mi%20perfil&fontSize=35&fontColor=fff&animation=fadeIn" />
+</p>
+
+
 ## Hola soy **GalletaDev** o como **CookieDev**
 Soy un desarrollador que se dedica a programar videojuego y sistema de automatizacion mediante Python, 
 tambien un poco de como funciona las IA en hoy en dia y modelos de ChatBot como GPT-J, GPT-2, Transformers ect...
