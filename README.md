@@ -10,6 +10,15 @@ tambien un poco de como funciona las IA en hoy en dia y modelos de ChatBot como 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Ren'Py](https://img.shields.io/badge/Ren'Py-FF69B4?style=for-the-badge&logo=renpy&logoColor=white)
+![Arte y Diseño](https://img.shields.io/badge/Arte%20y%20Diseño-FF6F61?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
+
+### 🚀 Actualmente aprendiendo
+
+![Chatbots](https://img.shields.io/badge/Chatbots-3C3C3C?style=for-the-badge&logo=dialogflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🤖 Interés en Inteligencia Artificial
 
