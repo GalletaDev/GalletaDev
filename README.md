@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:800080&height=200&section=header&text=GalletaDev&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:800080&height=200&section=header&text=&fontSize=0" alt="Fondo dinámico" />
+</p>
+
+<p align="center">
+  <img src="logo.png" alt="GalletaDev" width="60%" />
 </p>
 
 
