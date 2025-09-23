@@ -18,3 +18,7 @@ tambien un poco de como funciona las IA en hoy en dia y modelos de ChatBot como 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+A las IA lo uso como herramientas nada mas, 
+la mayoria de las cosas la tengo que arreglar yo por que no sabe perfectamente como programar correctamente.
+La IA no remplazara a los humanos...
