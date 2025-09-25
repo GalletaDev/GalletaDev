@@ -23,6 +23,7 @@ Se tambien dibujar con Krita herramienta de dibujo y diseño con tableta grafica
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF69B4?style=for-the-badge&logo=renpy&logoColor=white)
 ![Arte y Diseño](https://img.shields.io/badge/Arte%20y%20Diseño-FF6F61?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
 ![Music Bandcamp](https://img.shields.io/badge/Escucha%20en%20Bandcamp-🎧%20Ahora%20Mismo-1e86ff?style=for-the-badge&logo=bandcamp&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-3776AB?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### 🚀 Actualmente aprendiendo
 
