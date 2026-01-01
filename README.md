@@ -8,6 +8,8 @@ Se tambien dibujar con Krita herramienta de dibujo y diseño con tableta grafica
 
 # Pero mi enfoque principal ante todo es la *programacion*.
 
+Dev: Little Secrets, Party and Cupcacke, Yukine Ice cream
+
 ## Rama principal de aprendizaje
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
