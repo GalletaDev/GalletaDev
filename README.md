@@ -1,6 +1,6 @@
 <p align="center">
   <img src="logo.png" alt="GalletaDev" width="65%" />
-  <img src="vene.png" alt="flag" width="50%" />
+  <img src="venesss.png" alt="flag" width="50%" />
 </p>
 
 ## Hola soy **GalletaDev** o como **CookieDev**
