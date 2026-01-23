@@ -9,7 +9,7 @@ Se tambien dibujar con Krita herramienta de dibujo y diseño con tableta grafica
 
 # Pero mi enfoque principal ante todo es la *programacion*.
 
-Dev: Little Secrets, Party and Cupcacke, Yukine Ice cream
+Dev: Little Secrets, Party and Cupcacke, Yukine Ice cream, Divine Tetris
 
 ## Rama principal de aprendizaje
 
