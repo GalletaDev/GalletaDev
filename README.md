@@ -11,6 +11,10 @@ Se tambien dibujar con Krita herramienta de dibujo y diseño con tableta grafica
 
 <p align="center">
   <img src="logo_ls.webp" alt="LittleSecrets" width="10%" height="10%" />
+  <img src="logo_pck.webp" alt="PartyCupcake" width="10%" height="10%" />
+  <img src="logo_yicecream.webp" alt="YukineIceCream" width="10%" height="10%" />
+  <img src="logo_divine_tetris.webp" alt="DivineTetris" width="10%" height="10%" />
+  <img src="logo_fhp.webp" alt="A Fake Hospital" width="10%" height="10%" />
 </p>
 
 ## Rama principal de aprendizaje
