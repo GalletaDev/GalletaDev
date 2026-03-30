@@ -10,7 +10,7 @@ Se tambien dibujar con Krita herramienta de dibujo y diseño con tableta grafica
 # Pero mi enfoque principal ante todo es la *programacion*.
 
 <p align="center">
-  <img src="logo_ls.webp" alt="LittleSecrets width="40%" />
+  <img src="logo_ls.webp" alt="LittleSecrets" width="10%" height="10%" />
 </p>
 
 ## Rama principal de aprendizaje
