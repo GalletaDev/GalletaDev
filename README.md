@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="GalletaDev" width="65%" />
+  <img src="https://github.com/GalletaDev/pag_personality/blob/main/img/logo_base/logo.png" alt="GalletaDev" width="65%" />
   <img src="venesss.png" alt="flag" width="25%" height="25%" />
 </p>
 
