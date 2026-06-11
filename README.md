@@ -16,6 +16,7 @@ Se tambien dibujar con Krita herramienta de dibujo y diseño con tableta grafica
   <img src="logo_yicecream.webp" alt="YukineIceCream" width="10%" height="10%" />
   <img src="game_logo.png" alt="DivineTetris" width="10%" height="10%" />
   <img src="logo_fhp.webp" alt="A Fake Hospital" width="10%" height="10%" />
+  <img src="logo_tfy.png" alt="A Fake Hospital" width="10%" height="10%" />
 </p>
 
 ## Rama principal de aprendizaje
